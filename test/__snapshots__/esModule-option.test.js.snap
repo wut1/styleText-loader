@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`参数"esModule" 指定为"true" 并且未设置CSS modules的时候应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 指定为"true" 并且未设置CSS modules的时候应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 指定为"true" 并且未设置CSS modules的时候应该可用: warnings 1`] = `Array []`;
+
+exports[`参数"esModule" 指定为"true" 并且设置CSS modules时候应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 指定为"true" 并且设置CSS modules时候应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 指定为"true" 并且设置CSS modules时候应该可用: warnings 1`] = `Array []`;
+
+exports[`参数"esModule" 指定为"true"的时候应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 指定为"true"的时候应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 指定为"true"的时候应该可用: warnings 1`] = `Array []`;
+
+exports[`参数"esModule" 没有指定的时候应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 没有指定的时候应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 没有指定的时候应该可用: warnings 1`] = `Array []`;
+
+exports[`参数"esModule" 设置为"false"时并且未设置CSS modules应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 设置为"false"时并且未设置CSS modules应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 设置为"false"时并且未设置CSS modules应该可用: warnings 1`] = `Array []`;
+
+exports[`参数"esModule" 设置为"false"时并且设置CSS modules应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 设置为"false"时并且设置CSS modules应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 设置为"false"时并且设置CSS modules应该可用: warnings 1`] = `Array []`;
+
+exports[`参数"esModule" 设置为"false"时应该可用: DOM 1`] = `
+"<!DOCTYPE html><html><head>
+  <title>style-loader test</title>
+  <style id=\\"existing-style\\">.existing { color: yellow }</style>
+</head>
+<body>
+  <h1>Body</h1>
+  <div class=\\"target\\"></div>
+  <iframe class=\\"iframeTarget\\"></iframe>
+
+
+</body></html>"
+`;
+
+exports[`参数"esModule" 设置为"false"时应该可用: errors 1`] = `Array []`;
+
+exports[`参数"esModule" 设置为"false"时应该可用: warnings 1`] = `Array []`;
